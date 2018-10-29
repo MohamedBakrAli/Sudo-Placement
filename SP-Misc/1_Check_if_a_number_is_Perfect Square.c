@@ -15,5 +15,6 @@ int main() {
 	    scanf("%d", &num);
 	    printf("%d\n", check_sqr(num));
 	}
+	
 	return 0;
 }
