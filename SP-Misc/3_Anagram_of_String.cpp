@@ -19,11 +19,6 @@ int main()
     return 0;
 }
 
-
-/*Please note that it's Function problem i.e.
-you need to write your solution in the form of Function(s) only.
-Driver Code to call/invoke your function is mentioned above.*/
-
 // function to calculate minimum numbers of characters
 // to be removed to make two strings anagram
 int remAnagram(string str1, string str2)
